@@ -11,8 +11,8 @@
 </head>
 <body>
  	<!-- 각자의 인덱스를 만들어도 좋아용 -->
-<!-- 	<div style="width: 600px; height: 500px; background:navy; padding-left: 2%">
-		<h1 style="color:white">SungA's Index <br />매일 한개씩이라도 공부하자!</h1>
+	<div style="width: 600px; height: 500px; background:navy; padding-left: 2%">
+		<h1 style="color:white">ChangHyun's Index <br />매일 한개씩이라도 공부하자!</h1>
 		<div style="width: 500px; height: 300px; background: white;  padding-top: 5%">
 			<table border="solid">
 				<tr>
@@ -50,6 +50,6 @@
 			</table>
 		</div>
 	</div>
-		 -->
+		
 </body>
 </html>
