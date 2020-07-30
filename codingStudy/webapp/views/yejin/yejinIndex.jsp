@@ -10,9 +10,9 @@
 <title>안예진 인덱스</title>
 </head>
 <body>
-<!-- 각자의 인덱스를 만들어도 좋아용 -->
-<!-- 	<div style="width: 600px; height: 500px; background:navy; padding-left: 2%">
-		<h1 style="color:white">SungA's Index <br />매일 한개씩이라도 공부하자!</h1>
+ 	 
+ 	<div style="width: 600px; height: 500px; background:navy; padding-left: 2%">
+		<h1 style="color:white">Yejin's Index <br />매일 한개씩이라도 공부하자!</h1>
 		<div style="width: 500px; height: 300px; background: white;  padding-top: 5%">
 			<table border="solid">
 				<tr>
@@ -46,11 +46,13 @@
 						</a>
 					</td>
 					<td>비고는 내용이 없으면 적지 않습니다.</td>
+					<td>2020-07-30</td>
+					<td>forEach 어디까지인지 확인잘하구 잘닫자..이상한짓하지 말자</td>
 				</tr>
 			</table>
 		</div>
 	</div>
-		 -->
+		 
 
 </body>
 </html>
