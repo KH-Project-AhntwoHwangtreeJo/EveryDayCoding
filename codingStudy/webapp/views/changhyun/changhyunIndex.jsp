@@ -23,7 +23,7 @@
 				<tr>
 					<td>2020-07-29</td>
 					<td>
-						<a href="/codingStudy/views/sunga//sungaIndex.jsp">
+						<a href="/codingStudy/views/changhyun//changhyunIndex.jsp">
 							주제를 적읍시다.
 						</a>
 					</td>
@@ -32,7 +32,7 @@
 				<tr>
 					<td>2020-07-29</td>
 					<td>
-						<a href="/codingStudy/views/sunga//sungaIndex.jsp">
+						<a href="/codingStudy/views/changhyun//changhyunIndex.jsp">
 							주제를 적읍시다.
 						</a>
 					</td>
@@ -41,7 +41,7 @@
 				<tr>
 					<td>2020-07-29</td>
 					<td>
-						<a href="/codingStudy/views/sunga//sungaIndex.jsp">
+						<a href="/codingStudy/views/changhyun//changhyunIndex.jsp">
 							주제를 적읍시다.
 						</a>
 					</td>
