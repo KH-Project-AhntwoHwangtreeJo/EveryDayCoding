@@ -22,20 +22,20 @@
 				<tr>
 					<td>2020-07-29</td>
 					<td>
-						<a href="/codingStudy/views/sunga//sungaIndex.jsp">
+						<a href="/codingStudy/views/sunga/sungaIndex.jsp">
 							주제를 적읍시다.
 						</a>
 					</td>
 					<td style="color:gray;">비고는 내용이 없으면 적지 않습니다.</td>
 				</tr>
 				<tr>
-					<td>2020-07-29</td>
+					<td>2020-08-01</td>
 					<td>
-						<a href="/codingStudy/views/sunga//sungaIndex.jsp">
-							주제를 적읍시다.
+						<a href="/codingStudy/views/sunga/kakaoMap1.jsp">
+							카카오 지도 공부
 						</a>
 					</td>
-					<td>비고는 내용이 없으면 적지 않습니다.</td>
+					<td></td>
 				</tr>
 				<tr>
 					<td>2020-07-29</td>
