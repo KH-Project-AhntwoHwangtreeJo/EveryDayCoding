@@ -79,7 +79,7 @@
 	};
 	</script>
 	<script>
-	function clickSearch(){
+	/*function clickSearch(){
 		//var searchSpace= $('#serachBar').val();
 		//alert(searchSpace);
 		
@@ -102,7 +102,7 @@
 		        map.setBounds(bounds);
 		    } 
 		}
-	}
+	}*/
 	
 	</script>
 </body>
