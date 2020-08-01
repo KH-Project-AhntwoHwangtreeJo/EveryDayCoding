@@ -21,10 +21,10 @@
 					<th>비고</th>
 				</tr>
 				<tr>
-					<td>2020-07-29</td>
+					<td>2020-08-01</td>
 					<td>
-						<a href="/codingStudy/views/changhyun//changhyunIndex.jsp">
-							주제를 적읍시다.
+						<a href="/codingStudy/views/changhyun/SQL/SQL.jsp">
+							SQL 공부
 						</a>
 					</td>
 					<td style="color:gray;">비고는 내용이 없으면 적지 않습니다.</td>
