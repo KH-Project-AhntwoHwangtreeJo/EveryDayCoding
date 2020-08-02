@@ -23,6 +23,18 @@
 			<p>SELECT WHERE 절</p>
 			<img src="${pageContext.request.contextPath}/resources/img/changhyunIMGFolder/SQL/SELECT_003.png" alt=""  style="width : 85%; hight : 85%;"/> 
 		</li>
+		<li>
+			<p>SELECT WHERE 절</p>
+			<img src="${pageContext.request.contextPath}/resources/img/changhyunIMGFolder/SQL/SELECT_004.png" alt=""  style="width : 85%; hight : 85%;"/> 
+		</li>
+		<li>
+			<p>SELECT ORDER BY</p>
+			<img src="${pageContext.request.contextPath}/resources/img/changhyunIMGFolder/SQL/SELECT_005.png" alt=""  style="width : 85%; hight : 85%;"/> 
+		</li>
+		<li>
+			<p>SELECT ORDER BY_2</p>
+			<img src="${pageContext.request.contextPath}/resources/img/changhyunIMGFolder/SQL/SELECT_006.png" alt=""  style="width : 85%; hight : 85%;"/> 
+		</li>						
 	</ul>	
 </body>
 </html>
