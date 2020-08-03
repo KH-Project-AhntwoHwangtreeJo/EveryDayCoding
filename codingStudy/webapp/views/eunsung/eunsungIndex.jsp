@@ -10,29 +10,29 @@
 <title>조은성 인덱스</title>
 </head>
 <body>
-<!-- 각자의 인덱스를 만들어도 좋아용 -->
-<!-- 	<div style="width: 600px; height: 500px; background:navy; padding-left: 2%">
-		<h1 style="color:white">SungA's Index <br />매일 한개씩이라도 공부하자!</h1>
+각자의 인덱스를 만들어도 좋아용
+	<div style="width: 600px; height: 500px; background:navy; padding-left: 2%">
+		<h1 style="color:white">Eunsung's Index <br />매일 한개씩이라도 공부하자!</h1>
 		<div style="width: 500px; height: 300px; background: white;  padding-top: 5%">
 			<table border="solid">
 				<tr>
 					<th>날짜</th>
-					<th>내용</th>
+					<th>내용</th>s
 					<th>비고</th>
 				</tr>
 				<tr>
-					<td>2020-07-29</td>
+					<td>2020-08-03</td>
 					<td>
-						<a href="/codingStudy/views/sunga//sungaIndex.jsp">
+						<a href="/codingStudy/views/eunsung/file.jsp">
 							주제를 적읍시다.
 						</a>
 					</td>
-					<td style="color:gray;">비고는 내용이 없으면 적지 않습니다.</td>
+					<td style="color:gray;"></td>
 				</tr>
 				<tr>
 					<td>2020-07-29</td>
 					<td>
-						<a href="/codingStudy/views/sunga//sungaIndex.jsp">
+						<a href="/codingStudy/views/eunsung/eunsungIndex.jsp">
 							주제를 적읍시다.
 						</a>
 					</td>
@@ -41,7 +41,7 @@
 				<tr>
 					<td>2020-07-29</td>
 					<td>
-						<a href="/codingStudy/views/sunga//sungaIndex.jsp">
+						<a href="/codingStudy/views/eunsung/eunsungIndex.jsp">
 							주제를 적읍시다.
 						</a>
 					</td>
@@ -50,6 +50,6 @@
 			</table>
 		</div>
 	</div>
-		 -->
+		
 </body>
 </html>
