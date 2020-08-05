@@ -36,19 +36,39 @@
 		</li>
 		<li>
 			<p>SELECT WHERE 절</p>
-			<img src="${pageContext.request.contextPath}/resources/img/changhyunIMGFolder/SQL/SELECT_003.png" alt=""  style="width : 85%; hight : 85%;"/> 
+			<img src="${pageContext.request.contextPath}/resources/img/changhyunIMGFolder/SQL/SELECT_003.png" alt=""  style="width : 85%; hight : 85%;"/>
+			<p>
+				-- ORDER BY
+				-- ASC / DESC 정렬해준다.
+				-- [사용형식]
+				-- SELECT . . . 
+				-- FROM . . . 
+				-- WHERE . . .
+				-- . . .
+				-- ORDER BY 컬럼명[ASC, DESC][, 컬럼명 . . . ]      이름 오름차순 하고 뒤에 전화번호 오름차순으로 정렬할 수도 있다.
+				-- 이때 ASC나 DESC를 명시 하지 않을 경우 기본값은 ASC이다. 
+			</p> 
 		</li>
 		<li>
 			<p>SELECT WHERE 절</p>
-			<img src="${pageContext.request.contextPath}/resources/img/changhyunIMGFolder/SQL/SELECT_004.png" alt=""  style="width : 85%; hight : 85%;"/> 
+			<img src="${pageContext.request.contextPath}/resources/img/changhyunIMGFolder/SQL/SELECT_004.png" alt=""  style="width : 85%; hight : 85%;"/>
+			<p>
+			
+			</p> 
 		</li>
 		<li>
 			<p>SELECT ORDER BY</p>
-			<img src="${pageContext.request.contextPath}/resources/img/changhyunIMGFolder/SQL/SELECT_005.png" alt=""  style="width : 85%; hight : 85%;"/> 
+			<img src="${pageContext.request.contextPath}/resources/img/changhyunIMGFolder/SQL/SELECT_005.png" alt=""  style="width : 85%; hight : 85%;"/>
+			<p>
+			
+			</p> 
 		</li>
 		<li>
 			<p>SELECT ORDER BY_2</p>
-			<img src="${pageContext.request.contextPath}/resources/img/changhyunIMGFolder/SQL/SELECT_006.png" alt=""  style="width : 85%; hight : 85%;"/> 
+			<img src="${pageContext.request.contextPath}/resources/img/changhyunIMGFolder/SQL/SELECT_006.png" alt=""  style="width : 85%; hight : 85%;"/>
+			<p>
+			
+			</p> 
 		</li>						
 	</ul>	
 </body>
