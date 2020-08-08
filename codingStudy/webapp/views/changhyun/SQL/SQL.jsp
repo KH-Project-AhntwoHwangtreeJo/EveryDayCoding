@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>황창현 Index</title>
+<title>황창현 인덱스</title>
 </head>
 <body>
 	<ul>
