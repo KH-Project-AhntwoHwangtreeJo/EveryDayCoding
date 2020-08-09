@@ -17,13 +17,13 @@
 			<table border="solid">
 				<tr>
 					<th>날짜</th>
-					<th>내용</th>s
+					<th>내용</th>
 					<th>비고</th>
 				</tr>
 				<tr>
 					<td>2020-08-03</td>
 					<td>
-						<a href="/codingStudy/views/eunsung/file.jsp">
+						<a href="/codingStudy/views/eunsung/form.jsp">
 							주제를 적읍시다.
 						</a>
 					</td>
