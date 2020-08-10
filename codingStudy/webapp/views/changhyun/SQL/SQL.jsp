@@ -69,7 +69,14 @@
 			<p>
 			
 			</p> 
-		</li>						
+		</li>	
+		<li>
+			<p>SELECT LIMIT</p>
+			<img src="${pageContext.request.contextPath}/resources/img/changhyunIMGFolder/SQL/SELECT_007.png" alt=""  style="width : 85%; hight : 85%;"/>
+			<p>
+			
+			</p> 
+		</li>							
 	</ul>	
 </body>
 </html>
