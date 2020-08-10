@@ -24,16 +24,16 @@
 					<td>2020-08-03</td>
 					<td>
 						<a href="/codingStudy/views/eunsung/form.jsp">
-							주제를 적읍시다.
+						
 						</a>
 					</td>
 					<td style="color:gray;"></td>
 				</tr>
 				<tr>
-					<td>2020-07-29</td>
+					<td>2020-08-11</td>
 					<td>
-						<a href="/codingStudy/views/eunsung/eunsungIndex.jsp">
-							주제를 적읍시다.
+						<a href="/codingStudy/views/eunsung/jstl.jsp">
+						
 						</a>
 					</td>
 					<td>비고는 내용이 없으면 적지 않습니다.</td>

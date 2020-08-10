@@ -19,7 +19,8 @@
 					<th>내용</th>
 					<th>비고</th>
 				</tr>
-				<tr>
+				<tr>jsw9307네이버
+				10830wjd
 					<td>2020-07-29</td>
 					<td>
 						<a href="/codingStudy/views/sunga/sungaIndex.jsp">
