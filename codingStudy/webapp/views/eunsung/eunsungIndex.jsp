@@ -47,6 +47,15 @@
 					</td>
 					<td>비고는 내용이 없으면 적지 않습니다.</td>
 				</tr>
+				<tr>
+					<td>2020-08-13</td>
+					<td>
+						<a href="/codingStudy/views/eunsung/spring.jsp">
+							주제를 적읍시다.
+						</a>
+					</td>
+					<td>비고는 내용이 없으면 적지 않습니다.</td>
+				</tr>
 			</table>
 		</div>
 	</div>
